@@ -3,7 +3,7 @@ A bank is introducing a new policy to its customers. Campaigns have rolled out i
 We need to build a statistical model which will predict whether a customer will subscribe to the product or not based on the previous campaign data.
 
 We also need to strategize which customers to target to reduce the marketing cost, make the campaign effectively targeted and less bothering to uninterested customers. 
-This will be based on based on  customer characteristics , campaign characteristics and previous campaign information
+This will be based on based on customer characteristics, campaign characteristics and previous campaign information.
 
 Cusotmer info will be as follows:
 1 - age 
